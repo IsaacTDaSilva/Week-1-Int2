@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page 2</title>
+     <link rel="stylesheet" href="index.css">
+</head>
+<body id="page2-background">
+      <div class="topnav">
+  <a href="Page2.html">Home</a>
+  <a class="active"href="#">Instruments</a>
+  <a href="index.html">Artists</a>
+</div>
+<h1 style="color:Orange; text-align:center;"> INSTRUMENTS </h1>
+    <div class="text-content">
+<p>--CLASSICAL GUITAR--Bossa nova is most commonly performed on the nylon-string classical guitar, played with the fingers rather than with a pick. Its purest form could be considered unaccompanied guitar with vocals, as created, pioneered, and exemplified by João Gilberto. Even in larger, jazz-like arrangements for groups, there is almost always a guitar that plays the underlying rhythm. Gilberto basically took one of the several rhythmic layers from a samba ensemble, specifically the tamborim, and applied it to the picking hand. According to Brazilian musician Paulo Bitencourt, João Gilberto, known for his eccentricity and obsessed by the idea of finding a new way of playing the guitar, often locked himself in the bathroom, where he played one and the same chord for many hours in a row.[7]
+    
+    
+    <p>
+        
+        </p>
+    <p> --DRUMS AND PRECUSSION--
+As in samba, the surdo plays an ostinato figure on the downbeat of beat one, the "ah" of beat one, the downbeat of beat two and the "ah" of beat two. The clave pattern sounds very similar to the two-three or three-two son clave of Cuban styles such as mambo but is dissimilar in that the "two" side of the clave is pushed by an eighth note. Also important in the percussion section for bossa nova is the cabasa, which plays a steady sixteenth-note pattern. These parts are easily adaptable to the drum set, which makes bossa nova a rather popular Brazilian style for drummers. </p>
+    </div>
+
+</body>
+</html>
+© 2020 GitHub, Inc.
